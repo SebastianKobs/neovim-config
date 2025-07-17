@@ -3,6 +3,7 @@
 Loosely based on [https://github.com/dam9000/kickstart-modular.nvim](Kickstart-Modular)
 
 ## Included Plugins
+
 - [blink-cmp](https://github.com/Saghen/blink.cmp)
 - [conform.nvim](https://github.com/stevearc/conform.nvim)
 - [copilot.vim](https://github.com/github/copilot.vim)
