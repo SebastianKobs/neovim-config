@@ -6,6 +6,7 @@ Loosely based on [https://github.com/dam9000/kickstart-modular.nvim](Kickstart-M
 - [blink-cmp](https://github.com/Saghen/blink.cmp)
 - [conform.nvim](https://github.com/stevearc/conform.nvim)
 - [copilot.vim](https://github.com/github/copilot.vim)
+- [copilotchat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim)
 - [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)
 - [lazydev.nvim](https://github.com/folke/lazydev.nvim)
 - [mini.nvim](https://github.com/echasnovski/mini.nvim)

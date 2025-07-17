@@ -12,4 +12,5 @@ require("lazy").setup({
 	require("plugins.neo-tree"),
 	require("plugins.neogit"),
 	require("plugins.copilot"),
+	require("plugins.copilot-chat"),
 })
