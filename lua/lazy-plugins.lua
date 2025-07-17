@@ -1,0 +1,14 @@
+require("lazy").setup({
+	require("plugins.colors"),
+	require("plugins.treesitter"),
+	require("plugins.telescope"),
+	require("plugins.todo-comments"),
+	require("plugins.autopairs"),
+	require("plugins.blink-cmp"),
+	require("plugins.lsp-config"),
+	require("plugins.conform"),
+	require("plugins.git-signs"),
+	require("plugins.mini"),
+	require("plugins.neo-tree"),
+	require("plugins.neogit"),
+})
