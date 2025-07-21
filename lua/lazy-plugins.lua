@@ -2,6 +2,7 @@ require("lazy").setup({
 	require("plugins.colors"),
 	require("plugins.treesitter"),
 	require("plugins.telescope"),
+	require("plugins.telescope-live-grep"),
 	require("plugins.todo-comments"),
 	require("plugins.autopairs"),
 	require("plugins.blink-cmp"),
