@@ -48,6 +48,8 @@ return {
 				lua = { "stylua" },
 				php = { "php-cs-fixer" },
 				yaml = { "yaml-fmt" },
+				html = { "prettierd" },
+				javascript = { "prettierd" },
 			},
 		},
 	},
